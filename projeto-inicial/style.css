@@ -155,3 +155,29 @@ td, th {
 	border: 1px solid #000000;
 	padding: 5px 20px;
 }
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+form {
+	margin: 40px 0;
+}
+
+form label, form p {
+	display:block;
+	margin: 0 0 10px;
+	font-size: 20px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+
+.checkbox {
+	margin: 20px 0;
+}
