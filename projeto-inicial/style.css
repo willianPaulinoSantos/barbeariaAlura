@@ -136,7 +136,7 @@ footer {
 	transform: scale(1.2);	
 }
 
-.funcionamento {
+/*.funcionamento {
 	width: 940px;
 	margin: 0 auto 40px;
 }
@@ -154,7 +154,7 @@ th  {
 td, th {
 	border: 1px solid #000000;
 	padding: 5px 20px;
-}
+}*/
 
 main {
 	width: 940px;
@@ -204,10 +204,27 @@ fieldset{
 	border: none;
 	border-radius: 10px;
 	transition: 1s all;
+	cursor:pointer;
 
 }
 
 .enviar:hover {
 	background-color: darkorange;
 	transform: scale(1.20);
+}
+
+table {
+	margin: 20px 0 40px;
+}
+
+thead {
+	background-color: #555555;
+	color: white;
+	font-weight: bold;
+}
+
+td, th {
+	border: 1px solid #000000;
+	padding: 8px 15px;
+	text-align: center;
 }
