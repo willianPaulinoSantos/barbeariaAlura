@@ -1,3 +1,7 @@
+body {
+	font-family: "Montserrat", sans-serif;
+}
+
 header {
 	background: #BBBBBB;
 	padding: 20px 0;
@@ -262,4 +266,18 @@ td, th {
 
 .imagembeneficios {
 	width: 60%;
+}
+
+.mapa {
+	padding: 3em 0;
+}
+
+.mapa p {
+	text-align: center;
+	margin: 2em 0;
+}
+
+.video {
+	width: 540px;
+	margin: 2em auto;
 }
